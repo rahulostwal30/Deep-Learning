@@ -1,0 +1,5 @@
+Activation Function
+An activation function is a mathematical function that determines the output of a neuron and 
+introduces non-linearity into a neural network
+allow it to learn complex relationship between input and output
+
